@@ -41,14 +41,14 @@ This assignment should prove that a student is able to:
   - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
 - [x] VSCode IDE MUST have 0 problems listed
 - [x] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "[w3c web validator](https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator)" VSCode extension or the "[Online w3c Markup Validation Service](https://validator.w3.org/#validate_by_input)")
-- [ ] The code MUST be formatted with Prettier.
-- [ ] Push the changes to the Github repo, when finished.
+- [x] The code MUST be formatted with Prettier.
+- [x] Push the changes to the Github repo, when finished.
 - [ ] Submit a .txt file with the Github repo url.
 
 ## Specific requirements
 
 For the styles.css file:
 
-- [ ] Find and fix all the syntax issues in the file
+- [x] Find and fix all the syntax issues in the file
   - There are commented out hints for you to find the CSS rules with incorrect syntax
   - When running tests, the failed test message contains the CSS file line number of the rule that was tested.
